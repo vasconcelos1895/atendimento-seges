@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="atendimento.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="29"/>
+      </Unit>
+      <Unit>
+        <Filename Value="view\viewmenu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMenu"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="viewMenu"/>
+        <TopLine Value="21"/>
+        <CursorPos X="37" Y="28"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\setordto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SetorDTO"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="51" Y="32"/>
+        <UsageCount Value="29"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\orgaodto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="OrgaoDTO"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="23" Y="19"/>
+        <UsageCount Value="29"/>
+      </Unit>
+      <Unit>
+        <Filename Value="view\viewdefault.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmDefault"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="viewDefault"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="12" Y="6"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="view\viewfuncionario.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmFuncionario"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="viewFuncionario"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="32"/>
+        <CursorPos X="41" Y="57"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="view\viewsetor.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmSetor"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="viewSetor"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="10"/>
+        <CursorPos X="23" Y="23"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="369"/>
+        <CursorPos X="40" Y="379"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmVisitantes"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="viewVisitantes"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="44"/>
+        <CursorPos X="3" Y="79"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="50" Column="3" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="55" Column="3" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="56" Column="3" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="57" Column="3" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="58" Column="3" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="59" Column="3" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="60" Column="3" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="61" Column="3" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="62" Column="3" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="63" Column="3" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="64" Column="3" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="65" Column="3" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="66" Column="3" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="67" Column="3" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="68" Column="3" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="69" Column="3" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="68" Column="3" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="70" Column="3" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="69" Column="3" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="68" Column="3" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="69" Column="3" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="70" Column="3" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="71" Column="3" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="72" Column="3" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewvisitantes.pas"/>
+        <Caret Line="74" Column="3" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewmenu.pas"/>
+        <Caret Line="17" Column="50"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewmenu.pas"/>
+        <Caret Line="54" Column="30" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewfuncionario.pas"/>
+        <Caret Line="24" Column="47" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewfuncionario.pas"/>
+        <Caret Line="23" Column="47" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="view\viewsetor.pas"/>
+        <Caret Line="23" Column="23" TopLine="10"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,67 @@
+inherited frmSetor: TfrmSetor
+  Left = 774
+  Height = 215
+  Top = 247
+  Width = 701
+  Caption = 'Setores'
+  ClientHeight = 215
+  ClientWidth = 701
+  OnShow = FormShow
+  inherited Panel1: TPanel
+    Width = 701
+    ClientWidth = 701
+    inherited btnClear: TBitBtn
+      OnClick = btnClearClick
+    end
+  end
+  object id: TLabeledEdit[1]
+    Left = 24
+    Height = 29
+    Top = 96
+    Width = 80
+    Color = clMenu
+    EditLabel.Height = 15
+    EditLabel.Width = 80
+    EditLabel.Caption = 'ID'
+    EditLabel.ParentColor = False
+    Enabled = False
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -16
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 1
+  end
+  object nome: TLabeledEdit[2]
+    Left = 24
+    Height = 29
+    Top = 160
+    Width = 440
+    EditLabel.Height = 15
+    EditLabel.Width = 440
+    EditLabel.Caption = 'Nome'
+    EditLabel.ParentColor = False
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -16
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 2
+  end
+  object sigla: TLabeledEdit[3]
+    Left = 480
+    Height = 29
+    Top = 160
+    Width = 192
+    EditLabel.Height = 15
+    EditLabel.Width = 192
+    EditLabel.Caption = 'Sigla'
+    EditLabel.ParentColor = False
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -16
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 3
+  end
+end
